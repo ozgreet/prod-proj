@@ -35,7 +35,7 @@ module.exports = {
         'react/react-in-jsx-scope': 'off',
         indent: [2, 4],
         'react/require-default-props': 'off',
-        'react/jsx-props-no-spreading': 'warn',
+        'react/jsx-props-no-spreading': 'off',
         'react/function-component-definition': 'off',
         'no-shadow': 'off',
         'import/extensions': 'off',
